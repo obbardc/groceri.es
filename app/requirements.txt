@@ -2,7 +2,7 @@ Flask-Migrate==3.1.0
 Flask-Login==0.6.2
 Flask-Babel==2.0.0
 Flask-WTF==1.0.1
-python-slugify==6.1.2
+python-slugify==8.0.0
 pycountry==22.3.5
 PyMySQL==1.0.2
 SQLAlchemy==1.4.40
